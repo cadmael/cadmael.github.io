@@ -1,0 +1,13 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_2" y="261" x="396" stroke-width="0" stroke="#000" fill="#000000"/>
+  <rect x="0" y="0" transform="matrix(3.28764 0 0 2.67056 -630.076 -521.769)" stroke="#000" id="svg_7" height="500" width="500" stroke-width="0" fill="#524b59"/>
+  <text filter="url(#svg_1_blur)" font-style="normal" font-weight="bold" transform="matrix(5.8971 0 0 5.8971 -620.21 -774.738)" stroke="#000" fill="#ffffff" stroke-width="0" x="110.90971" y="190.64015" id="svg_1" font-size="50" font-family="'Brygada 1918'" text-anchor="start" xml:space="preserve">YC.</text>
+ </g>
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+</svg>
